@@ -1,3 +1,5 @@
-This is an instant messanger that allows a client to have a text conversation with a server.
+This is an instant messanger that allows a client to have a text conversation with a server. 
+At this stage, the client and server IP addresses are hardcoded; 
+in fact, the client and server IP addresses are hardcoded to be the local host so that I can test and debug.
 
-(MORE...)
+more to come...
